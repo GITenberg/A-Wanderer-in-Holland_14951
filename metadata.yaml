@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/818
     wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14951#A-Wanderer-in-Holland
 gutenberg_issued: '2005-02-07'
 gutenberg_type: Text
 identifiers:
