@@ -1,0 +1,40 @@
+_repo: A-Wanderer-in-Holland_14951
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Marshall, Herbert, R. W. S.
+    alias: Marshall, Herbert (Herbert Menzies)
+    birthdate: 1841
+    deathdate: 1913
+    gutenberg_agent_id: '33986'
+    url: http://www.gutenberg.org/2009/agents/33986
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Menzies_Marshall
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lucas, E. V. (Edward Verrall)
+    aliases:
+    - Lucas, E.V.
+    - Lucas, Edward Verrall
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '818'
+    url: http://www.gutenberg.org/2009/agents/818
+    wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
+description: ''
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art, Dutch'
+- !lcc 'DJ'
+- !lcsh 'Netherlands -- Description and travel'
+title: A Wanderer in Holland
+url: http://www.gutenberg.org/ebooks/14951
